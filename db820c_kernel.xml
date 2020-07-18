@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote name="github" 
+	  fetch="https://github.com/pundirsumit" />
+
+  <!-- Android Mainline Kernel source for db820c -->
+  <project path="db820c" name="linux" revision="db820c-mainline" remote="github" />
+
+</manifest>
