@@ -9,7 +9,7 @@
   <remove-project path="device/linaro/dragonboard-kernel" name="device/linaro/dragonboard-kernel" />
 
   <!-- db820c device config -->
-  <project path="device/linaro/dragonboard" name="dragonboard" revision="db820c" remote="pundirsumit" groups="device,dragonboard,pdk" />
+  <project path="device/linaro/dragonboard" name="dragonboard" revision="dragonboard" remote="pundirsumit" groups="device,dragonboard,pdk" />
   <!-- db820c pre-built kernel tree -->
   <project path="device/linaro/dragonboard-kernel" name="dragonboard-kernel" revision="db820c" remote="pundirsumit" groups="device,dragonboard,pdk" />
 
