@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Remote -->
+  <remote name="pundirsumit"
+	  fetch="https://github.com/pundirsumit" />
+	 
+  <remove-project name="common" />
+
+  <project path="common" name="linux" revision="liber-mainline" remote="pundirsumit" />
+
+</manifest>
